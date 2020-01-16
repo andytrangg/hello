@@ -10,6 +10,11 @@ int main(void) {
   printf("Andy Trang\n");
 
   printf("Computer Science\n");
+  
+  printf("Ann Le\n");
+  
+  printf("Undeclared\n");
+         
 
   return 0;
 }
